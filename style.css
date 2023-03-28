@@ -1,0 +1,33 @@
+.card img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.cart-badge {
+    top: 7.5%;
+    left: 75%;
+}
+
+.badge {
+    padding: 4px 6px;
+}
+
+
+#cart-dropdown-menu .row {
+    min-width: 400px;
+}
+
+li img {
+    max-height: 80px;
+    object-fit: contain;
+}
+
+.book-cover {
+    max-height: 80vh;
+}
+
+.book-cover img {
+    height: 100%;
+    width: auto;
+}
